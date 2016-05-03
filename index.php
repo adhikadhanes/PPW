@@ -1,4 +1,4 @@
-<!DOCTYPE HTML> 
+<!DOCTYPE HTML> adhika
 <html>
 <head>
 <link rel="stylesheet" type="text/css" href="style.css">
