@@ -1,5 +1,6 @@
 <!DOCTYPE HTML> Latifatul
 <!DOCTYPE HTML> ayu saida
+<!DOCTYPE HTML> kane
 sai
 asdasda
 <html>
