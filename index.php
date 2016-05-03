@@ -1,4 +1,5 @@
 <!DOCTYPE HTML> Latifatul
+<!DOCTYPE HTML> ayu saida
 <html>
 <head>
 <link rel="stylesheet" type="text/css" href="style.css">
@@ -137,6 +138,8 @@ function test_input($data) {
 <div>
 <p>dhika<p>
 </div>
+
+dhika
 
 </body>
 </html>
