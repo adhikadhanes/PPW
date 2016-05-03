@@ -1,7 +1,6 @@
 <!DOCTYPE HTML> Latifatul
 <!DOCTYPE HTML> ayu saida
-<!DOCTYPE HTML> kane
-<!DOCTYPE HTML> dika
+<!DOCTYPE HTML> dhika
 sai
 asdasda
 <html>
