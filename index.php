@@ -1,6 +1,7 @@
 <!DOCTYPE HTML> Latifatul
 <!DOCTYPE HTML> ayu saida
 <!DOCTYPE HTML> dhika
+<!DOCTYPE HTML> bowos
 sai
 asdasda
 <html>
